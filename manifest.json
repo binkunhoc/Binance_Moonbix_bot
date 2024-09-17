@@ -2,7 +2,7 @@
     "manifest_version": 3,
     "name": "Auto Click Tasks Tab",
     "version": "1.0",
-    "description": "Automatically click the task tab on Binance and complete tasks.",
+    "description": "Automatically click the task tab on Binance_Moonbix and complete tasks.",
     "permissions": [
       "activeTab",
       "scripting",
